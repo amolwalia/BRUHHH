@@ -22,4 +22,4 @@ console.log(`My Horse's name is "${horseName}" and costs $${STABLE_MONTHLY_FEE} 
 horseName = "Nickolas";
 let horseNickname = "Nic";
 console.log(`My Horse's name is ${horseName} but his nickname is ${horseNickname}`);
-console.log("Usually 3 month stay is $" + (STABLE_MONTHLY_FEE*3) + ", but with a 10% discount it would be $" + ((STABLE_MONTHLY_FEE*3)*0.10))
+console.log("Usually 3 month stay is $" + (STABLE_MONTHLY_FEE*3) + ", but with a 10% discount it would be $" + (STABLE_MONTHLY_FEE*3)*0.10);
