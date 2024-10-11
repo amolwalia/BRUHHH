@@ -63,6 +63,5 @@ console.log( );
     horseLocation.push(true);
     horseAges.push(86);
     let horseLocationName = ["inside", "outside"] ;
-    console.log(`Do you want to meet the horses in my stable? Well you have to, ITS NOT A CHOICE! 
-I have ${horseNames.length} right now. There names are ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}, ${horseNames[3]}.`);
+    console.log(`Do you want to meet the horses in my stable? Well you have to, ITS NOT A CHOICE! I have ${horseNames.length} right now. There names are ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}, ${horseNames[3]}.`);
         console.log(`${horseNames[0]}, ${horseNames[2]} and ${horseNames[3]} are ${horseLocationName[0]} but ${horseNames[1]} is ${horseLocationName[1]}.`); 
