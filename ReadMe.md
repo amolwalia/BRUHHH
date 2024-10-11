@@ -1,5 +1,12 @@
 # MDIA 1620
 
+## WEEK 6 Update
+To be honest I am understanding everything.
+I did MySql and stuff in my grade 11 and 12, I had totally forgotten about it, but it's coming back to me now,
+JS is different obviously but somewhat similar at the same time.
+
+------------------------------------------------------------------
+
 Hi! My name is Amol\
 My favourite sandwich is still Chicken Salad Sandwich\
 Actally I had one before class\
