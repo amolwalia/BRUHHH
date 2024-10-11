@@ -34,7 +34,7 @@ if (visitingHorseName === "Mushroom") {
 }
     // Lab 5
 if (isHorseInside) {
-    console.log (horseName = " is outside");
+    console.log (horseName + " is outside");
 } else {
     console.log(horseName + " is inside");
 }
@@ -62,7 +62,7 @@ console.log( );
     // Lab 6
     horseLocation.push(true);
     horseAges.push(86);
-    let horseLocationName = ["inside", "outside", "inside", "inside"] ;
+    let horseLocationName = ["inside", "outside"] ;
     console.log(`Do you want to meet the horses in my stable? Well you have to, ITS NOT A CHOICE! 
-I have ${horseNames[0]} right now. There names are ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}, ${horseNames[3]}`);
-        console.log(`${horseNames[0]} is ${horseLocationName[0]}, ${horseNames[1]} is ${horseLocationName[1]}, ${horseNames[2]} is ${horseLocationName[2]} and ${horseNames[3]} is ${horseLocationName[3]}`);git 
+I have ${horseNames.length} right now. There names are ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}, ${horseNames[3]}.`);
+        console.log(`${horseNames[0]}, ${horseNames[2]} and ${horseNames[3]} are ${horseLocationName[0]} but ${horseNames[1]} is ${horseLocationName[1]}.`); 
