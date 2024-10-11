@@ -23,3 +23,18 @@ horseName = "Nickolas";
 let horseNickname = "Nic";
 console.log(`My Horse's name is ${horseName} but his nickname is ${horseNickname}`);
 console.log("Usually 3 month stay is $" + (STABLE_MONTHLY_FEE*3) + ", but with a 10% discount it would be $" + (STABLE_MONTHLY_FEE*3)*0.10);
+
+// Lesson 5
+let visitingHorseName = "Mushroom";
+
+if (visitingHorseName === "Mushroom") {
+    console.log( visitingHorseName + " has come to visit the stables");
+} else {
+    console.log(horseName + " is lonely");
+}
+
+if (!isHorseInside) {
+    console.log (horseName= " is outside");
+} else {
+    console.log(horseName + " is inside");
+}
